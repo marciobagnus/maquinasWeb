@@ -6,10 +6,10 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Inspirate</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Encuentra tu fuente de inspiración en cada puntada, en cada hilo que une la creatividad con la realidad.
+          Descubre cómo nuestras máquinas y accesorios tejen sueños en cada costura.
           </p>
         </div>
         <div className="row">

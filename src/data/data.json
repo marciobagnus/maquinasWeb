@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "¡Bienvenido!",
+    "title": "Explora",
     "paragraph": "En Bagnus, te invitamos a explorar un mundo de creatividad y estilo a través de la costura. Con una amplia gama de productos de alta calidad y un equipo de expertos apasionados por la costura, estamos aquí para acompañarte en cada paso de tu viaje creativo. Descubre nuestra colección de máquinas de coser, accesorios y herramientas, y deja que tu imaginación vuele alto. Únete a la familia Bagnus y haz realidad tus proyectos de costura con confianza y estilo."
   },
   "About": {
@@ -20,49 +20,44 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Crea",
+      "largeImage": "img/portfolio/01-large1.jpg",
+      "smallImage": "img/portfolio/01-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Imagina",
+      "largeImage": "img/portfolio/02-large1.jpg",
+      "smallImage": "img/portfolio/02-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Diseña",
+      "largeImage": "img/portfolio/03-large1.jpg",
+      "smallImage": "img/portfolio/03-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Confia",
+      "largeImage": "img/portfolio/04-large1.jpg",
+      "smallImage": "img/portfolio/04-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Proyecta",
+      "largeImage": "img/portfolio/05-large1.jpg",
+      "smallImage": "img/portfolio/05-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Las",
+      "largeImage": "img/portfolio/06-large1.jpg",
+      "smallImage": "img/portfolio/06-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Mejores",
+      "largeImage": "img/portfolio/07-large1.jpg",
+      "smallImage": "img/portfolio/07-small1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Marcas",
+      "largeImage": "img/portfolio/08-large1.jpg",
+      "smallImage": "img/portfolio/08-small1.jpg"
     }
   ],
   "Services": [
@@ -154,7 +149,7 @@
   "Contact": {
     "address": "Carlos Pellegrini 1138, Bº San Vicente, Córdoba, Argentina ",
     "phone": "03517247433",
-    "email": "maquinas@company.com",
+    "email": "maquinasbagnus@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
