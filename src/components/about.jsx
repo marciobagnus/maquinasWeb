@@ -7,13 +7,13 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            <img src="img/about1.jpg" className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>About Us</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>Why Choose Us?</h3>
+              <h2>Quienes somos</h2>
+              <p>{props.data ? props.data.paragraph : "cargando..."}</p>
+              <h3>¿Por qué elegirnos?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
@@ -21,7 +21,7 @@ export const About = (props) => {
                       ? props.data.Why.map((d, i) => (
                           <li key={`${d}-${i}`}>{d}</li>
                         ))
-                      : "loading"}
+                      : "cargando"}
                   </ul>
                 </div>
                 <div className="col-lg-6 col-sm-6 col-xs-12">
@@ -30,7 +30,7 @@ export const About = (props) => {
                       ? props.data.Why2.map((d, i) => (
                           <li key={`${d}-${i}`}> {d}</li>
                         ))
-                      : "loading"}
+                      : "cargando"}
                   </ul>
                 </div>
               </div>

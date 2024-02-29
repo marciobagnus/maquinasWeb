@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "¡Bienvenido!",
+    "paragraph": "En Bagnus, te invitamos a explorar un mundo de creatividad y estilo a través de la costura. Con una amplia gama de productos de alta calidad y un equipo de expertos apasionados por la costura, estamos aquí para acompañarte en cada paso de tu viaje creativo. Descubre nuestra colección de máquinas de coser, accesorios y herramientas, y deja que tu imaginación vuele alto. Únete a la familia Bagnus y haz realidad tus proyectos de costura con confianza y estilo."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Desde 1942, nos dedicamos con pasión y compromiso a servir a la industria de la costura. Nuestra historia comenzó en un garage, con un modesto espacio de 25 metros cuadrados. Con el paso de los años, hemos crecido y evolucionado hasta ocupar ahora 300 metros cuadrados en el mismo edificio. Nos enorgullece nuestra larga trayectoria en la ciudad, ofreciendo equipos de calidad y un servicio excepcional.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experiencia probada.",
+      "Variedad y calidad.",
+      "Atención personalizada.",
+      "Soporte técnico especializado."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Precios competitivos.",
+      "Compromiso con el cliente.",
+      "Innovación constante.",
+      "Confiabilidad garantizada."
     ]
   },
   "Gallery": [
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Venta de máquinas de coser",
+      "text": "Ofrecemos una amplia gama de máquinas de coser de calidad para satisfacer tus necesidades y presupuesto."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Asesoramiento personalizado",
+      "text": "Nuestro equipo de expertos está disponible para ayudarte a encontrar la mejor solución para tus proyectos de costura."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Reparación y mantenimiento",
+      "text": "Contamos con técnicos especializados que brindan servicios de reparación y mantenimiento para mantener tu equipo en óptimas condiciones."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Venta de accesorios",
+      "text": " Descubre una variedad de accesorios de costura, desde hilos y agujas hasta prensatelas y piezas de repuesto, todo en un solo lugar."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Cursos y talleres",
+      "text": " Ofrecemos cursos y talleres de costura para todos los niveles, desde principiantes hasta avanzados, impartidos por instructores experimentados."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Venta de repuestos y consumibles",
+      "text": "Encuentra repuestos y consumibles originales para tu máquina de coser, asegurando un rendimiento óptimo y duradero."
     }
   ],
   "Testimonials": [
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Carlos Pellegrini 1138, Bº San Vicente, Córdoba, Argentina ",
+    "phone": "03517247433",
+    "email": "maquinas@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Variedad de productos",
+      "text": "Amplia selección de máquinas de coser, accesorios y herramientas de costura para todas tus necesidades creativas."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Calidad excepcional",
+      "text": "Productos de alta calidad garantizados para ofrecerte un rendimiento duradero y resultados impecables en cada proyecto."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Servicio al cliente dedicado",
+      "text": "Equipo comprometido y amable listo para brindarte asistencia experta y resolver cualquier consulta o inquietud que puedas tener."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Innovación continua",
+      "text": "Estamos siempre al tanto de las últimas tendencias y avances en la industria de la costura para ofrecerte productos y servicios innovadores que satisfagan tus necesidades en constante evolución."
     }
   ]
 }
