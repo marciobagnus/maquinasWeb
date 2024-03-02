@@ -42,7 +42,7 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Contáctanos</h2>
+                <h2>Contactanos</h2>
                 <p>
                 Por favor, completa el formulario a continuación para enviarnos un correo electrónico y nos
               comunicaremos contigo lo antes posible.
