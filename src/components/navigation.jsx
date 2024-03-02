@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            Bagnus Máquinas
+          <img src="img/logoescrito.svg" alt="" class="d-inline-block align-top"/>
           </a>{" "}
         </div>
 
@@ -47,6 +47,7 @@ export const Navigation = (props) => {
                 Galería
               </a>
             </li>
+            {/*
             <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonios
@@ -56,7 +57,7 @@ export const Navigation = (props) => {
               <a href="#team" className="page-scroll">
                 Equipo
               </a>
-            </li>
+            </li>*/}
             <li>
               <a href="#contact" className="page-scroll">
                 Contactanos
