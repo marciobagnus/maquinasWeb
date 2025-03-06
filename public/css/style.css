@@ -7,6 +7,9 @@ html {
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
+  overflow-x: hidden; /* Previene el scroll horizontal */
+  margin: 0; /* Asegúrate de que no haya márgenes extra */
+  padding: 0; /* Evita el padding extra */
 }
 h2,
 h3,
