@@ -59,7 +59,7 @@ export const Navigation = (props) => {
               </a>
             </li>*/}
             <li>
-              <a href="">
+              <a href="#tienda">
                 Tienda
               </a>
             </li>
