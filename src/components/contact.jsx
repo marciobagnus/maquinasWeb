@@ -1,6 +1,7 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
+import ReactGA from "react-ga4";
 
 const initialState = {
   name: "",
@@ -35,8 +36,21 @@ export const Contact = (props) => {
         }
       );
   };
+
+  const handleInstagramClick = () => {
+    ReactGA.event({
+      category: "Social Media",
+      action: "Click en Instagram",
+      label: "Botón de Instagram",
+      debug_mode: true, // Activar el modo de depuración
+    });
+  };
+
+
   return (
+    
     <div>
+      
       <div id="contact">
         <div className="container">
           <div className="col-md-8">
@@ -106,12 +120,18 @@ export const Contact = (props) => {
                   <i className="fa fa-map-marker"></i> Dirección
                 </span>
                 {props.data ? props.data.address : "cargando"}
+      
+                <a href={props.data ? props.data.mapsLinkText : "/"}>
+                <span>
+                <u>¿CÓMO LLEGAR?</u>
+                </span>
+                </a>
               </p>
             </div>
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Teléfono
+                  <i className="fa fa-phone"></i> Teléfonos
                 </span>{" "}
                 {props.data ? props.data.phone : "cargando"}
               </p>
@@ -135,7 +155,9 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.instagram : "/"}>
+                    <a href={props.data ? props.data.instagram : "/"}
+                    onClick={handleInstagramClick}  
+                    >
                       <i className="fa fa-instagram"></i>
                     </a>
                   </li>
@@ -158,3 +180,4 @@ export const Contact = (props) => {
     </div>
   );
 };
+

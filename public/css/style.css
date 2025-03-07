@@ -7,9 +7,6 @@ html {
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
-  overflow-x: hidden; /* Previene el scroll horizontal */
-  margin: 0; /* Asegúrate de que no haya márgenes extra */
-  padding: 0; /* Evita el padding extra */
 }
 h2,
 h3,
@@ -309,6 +306,13 @@ header .intro-text {
 #about p {
   line-height: 24px;
   margin: 30px 0;
+}
+/* Whatsapp Button */
+#whatsappBtn .whatsapp-button-container {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  z-index: 1000;
 }
 /* Services Section */
 #services {
